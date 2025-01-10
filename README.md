@@ -20,7 +20,4 @@ Outcomes
 Successfully identified the best 11 players based on performance metrics.
 Delivered a user-friendly visualization platform to understand and explore player data effectively.
 
-How to Use
-Dataset: Ensure the Cricket T20 World Cup 2022 dataset is available.
-Python Scripts: Use the provided Python scripts to preprocess the data.
-Power BI Dashboards: Open the Power BI dashboard file to explore the visualizations.
+
